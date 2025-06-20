@@ -1,6 +1,5 @@
-Edit template..
-Edit from git bash!
 
+This is a change.
 
 # re-simple-python-project
 
